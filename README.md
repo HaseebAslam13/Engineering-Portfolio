@@ -4,10 +4,6 @@
 
 ### *Next-Generation Portfolio Template for Tomorrow's Engineers*
 
-[![GitHub stars](https://img.shields.io/github/stars/niladri-1/Engineering_Student_Portfolio?style=for-the-badge&logo=github&color=yellow)](https://github.com/niladri-1/Engineering_Student_Portfolio/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/niladri-1/Engineering_Student_Portfolio?style=for-the-badge&logo=github&color=blue)](https://github.com/niladri-1/Engineering_Student_Portfolio/network)
-[![GitHub issues](https://img.shields.io/github/issues/niladri-1/Engineering_Student_Portfolio?style=for-the-badge&logo=github&color=red)](https://github.com/niladri-1/Engineering_Student_Portfolio/issues)
-[![License](https://img.shields.io/github/license/niladri-1/Engineering_Student_Portfolio?style=for-the-badge&logo=mit&color=green)](LICENSE)
 
 <br>
 
@@ -15,8 +11,7 @@
 
 <br>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Click_Here-ff69b4?style=for-the-badge)](https://your-portfolio-demo.vercel.app)
-[![Documentation](https://img.shields.io/badge/📚_Documentation-Read_Now-blue?style=for-the-badge)](https://github.com/niladri-1/Engineering_Student_Portfolio/wiki)
+
 
 </div>
 
@@ -146,104 +141,6 @@ npm run dev
 
 ---
 
-## 🎨 **Customization Guide**
 
-<div align="center">
-
-| 🔧 **Component** | 📍 **Location** | 🎯 **Purpose** |
-|:---|:---|:---|
-| **Personal Info** | `app/page.tsx` | Update your details and bio |
-| **Project Gallery** | `components/Projects.tsx` | Showcase your engineering projects |
-| **Styling Theme** | `tailwind.config.ts` | Customize colors and design |
-| **Static Assets** | `public/` | Replace with your images/icons |
-| **Contact Form** | `components/Contact.tsx` | Configure contact information |
-
-</div>
-
----
-
-## 📊 **Performance Metrics**
-
-<div align="center">
-
-| 📈 **Metric** | 🎯 **Score** | 🏆 **Status** |
-|:---|:---:|:---:|
-| **Lighthouse Performance** | 98/100 | 🟢 Excellent |
-| **Accessibility** | 100/100 | 🟢 Perfect |
-| **Best Practices** | 100/100 | 🟢 Perfect |
-| **SEO** | 100/100 | 🟢 Perfect |
-| **First Contentful Paint** | < 1.2s | 🟢 Fast |
-| **Largest Contentful Paint** | < 2.5s | 🟢 Fast |
-
-</div>
-
----
-
-## 📦 **Available Scripts**
-
-<div align="center">
-
-| 🖥️ **Command** | 🎯 **Description** |
-|:---|:---|
-| `npm run dev` | Start development server |
-| `npm run build` | Build for production |
-| `npm run start` | Start production server |
-| `npm run lint` | Run ESLint checks |
-| `npm run type-check` | Run TypeScript checks |
-
-</div>
-
----
-
-## 🤝 **Contributing**
-
-<div align="center">
-
-We welcome contributions from the engineering community!
-
-[![Contributors](https://img.shields.io/github/contributors/niladri-1/Engineering_Student_Portfolio?style=for-the-badge&logo=github)](https://github.com/niladri-1/Engineering_Student_Portfolio/graphs/contributors)
-[![Pull Requests](https://img.shields.io/github/issues-pr/niladri-1/Engineering_Student_Portfolio?style=for-the-badge&logo=github)](https://github.com/niladri-1/Engineering_Student_Portfolio/pulls)
-
-[📋 Contributing Guidelines](CONTRIBUTING.md) • [🐛 Report Bug](https://github.com/niladri-1/Engineering_Student_Portfolio/issues/new?assignees=&labels=bug&template=bug_report.md) • [💡 Request Feature](https://github.com/niladri-1/Engineering_Student_Portfolio/issues/new?assignees=&labels=enhancement&template=feature_request.md)
-
-</div>
-
----
-
-## 📄 **License**
-
-<div align="center">
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
-</div>
-
----
-
-## 📞 **Contact & Connect**
-
-<div align="center">
-
-### **Niladri Chatterjee**
-*Full Stack Developer & Engineering Student*
-
-<br>
-
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:code.niladri@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niladri1)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://niladri1.vercel.app)
-[![GitHub](https://img.shields.io/badge/🐱_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niladri-1)
-
-<br>
-
-*"Building the future, one line of code at a time"*
-
----
-
-⭐ **If this project helped you, please consider giving it a star!** ⭐
-
-[![Star this repo](https://img.shields.io/github/stars/niladri-1/Engineering_Student_Portfolio?style=social)](https://github.com/niladri-1/Engineering_Student_Portfolio)
 
 </div>

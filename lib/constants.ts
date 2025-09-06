@@ -56,7 +56,7 @@ export const experiences: Experience[] = [
 		startDate: 'Sep 2024',
 		endDate: 'Present',
 		description: [
-			'Developed a web portal for dieticians to log in and view data visualizations of their clients',
+			'Developed a web portal with Flask serving a REST API on React, displaying trends in user’s diet app data through data visualizations, reducing data retrieval latency by 22%',
 			'Implemented a reliable data transfer system from user to the backend',
 			'Implementing an audio-driven AI pipeline with multi-modal agents for meal Image Analysis to calculate nutrient and caloric values',
 		],
@@ -71,7 +71,7 @@ export const experiences: Experience[] = [
 		description: [
 			'Assisted with efficient and safe power supply across the PRESET satellite',
 			'Assembled input PCBs and Solar Panel Simulator (SPS)',
-			'Integrated the SPS to conduct MPPT Configuration Testing',
+			'conducted Maximum Power Point Tracking Configuration Testing for PRESET Satellite, improving simulated energy harvesting efficiency by 15%',
 		],
 		technologies: ['Altium Designer', 'MATLAB', 'Circuit Testing', 'Soldering', 'PCB Design'], 
 	},
@@ -83,7 +83,7 @@ export const experiences: Experience[] = [
 		endDate: 'Present',
 		description: [
 			'Research on emotion detection in Cancer Patients and Caregivers using Large-Language Models including Llama-3.2, GPT-4 and 5, Gemma-2, Faclon and Mistral.',
-			'Collaborated with clinical experts in Palliative Care to refine feedback mechanisms, enhancing the educational value for medical trainees.',
+			'Achieved accuracy of up to 78% on the CANCEREMO Dataset using prompt-engineered models, an improvement from 73% which was attained through fine-tuned models',
  			'Orally presented a Peer-reviewed abstract on Oncology Student Research Day 2025',
 		],
 		technologies: ['HuggingFace', 'Pandas', 'OpenAI', 'Prompt Engineering', 'Jupyter'],
