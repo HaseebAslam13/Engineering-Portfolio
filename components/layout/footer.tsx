@@ -37,7 +37,7 @@ export function Footer() {
 			links: [
 				
 				{ title: 'Contact', href: '/contact' },
-				{ title: 'Resume', href: '#', download: true },
+				
 			],
 		},
 	];
@@ -74,7 +74,7 @@ export function Footer() {
 											<Link
 												href={link.href}
 												className="text-muted-foreground hover:text-primary text-sm transition-colors"
-												{...(link.download ? { download: true } : {})}
+												
 											>
 												{link.title}
 											</Link>
